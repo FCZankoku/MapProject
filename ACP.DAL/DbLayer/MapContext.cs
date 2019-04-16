@@ -12,12 +12,19 @@ namespace ACP.DAL.DbLayer
         {
         }
 
-        public virtual DbSet<Address> Addresses { get; set; }
-        public virtual DbSet<Street> Streets { get; set; }
-        public virtual DbSet<Subdivision> Subdivisions { get; set; }
+        public virtual DbSet<Address> Address { get; set; }
+        public virtual DbSet<Street> Street { get; set; }
+        public virtual DbSet<Subdivision> Subdivision { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Address>()
+                .Property(e => e.Latitude)
+                .HasPrecision(38, 8);
+
+            modelBuilder.Entity<Address>()
+                .Property(e => e.Longitude)
+                .HasPrecision(38, 8);
         }
     }
 }

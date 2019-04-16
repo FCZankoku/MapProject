@@ -80,9 +80,9 @@ namespace ConsoleApp1
                 Console.WriteLine("");
                 Console.WriteLine("Delete");
 
-                Console.WriteLine(streetService.Delete(streetService.GetAll().Last().StreetId).StreetName);
+                //Console.WriteLine(streetService.Delete(streetService.GetAll().Last().StreetId).StreetName);
                 //Console.WriteLine(addressService.Delete(1459).House);
-                Console.WriteLine(subdivService.Delete(subdivService.GetAll().Last().SubdivisionId).SubdivisionName);
+                //Console.WriteLine(subdivService.Delete(subdivService.GetAll().Last().SubdivisionId).SubdivisionName);
 
 
 

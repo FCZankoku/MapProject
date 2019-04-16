@@ -16,7 +16,7 @@ namespace ACP.DAL.DbLayer
         public int SubdivisionId { get; set; }
 
         [Required]
-        [StringLength(12)]
+        [StringLength(24)]
         public string House { get; set; }
 
         [StringLength(24)]
@@ -25,9 +25,9 @@ namespace ACP.DAL.DbLayer
         public int? СountFloor { get; set; }
 
         public int? СountEntrance { get; set; }
-
+        
         public decimal Latitude { get; set; }
-
+        
         public decimal Longitude { get; set; }
 
         public virtual Street Street { get; set; }

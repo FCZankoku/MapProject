@@ -24,3 +24,27 @@ C:\Users\Asus\source\repos\AdressComandProject\ACP.BLL\bin\Debug\ru\EntityFramew
 C:\Users\Asus\source\repos\AdressComandProject\ACP.BLL\obj\Debug\ACP.BLL.csproj.CopyComplete
 C:\Users\Asus\source\repos\AdressComandProject\ACP.BLL\obj\Debug\ACP.BLL.dll
 C:\Users\Asus\source\repos\AdressComandProject\ACP.BLL\obj\Debug\ACP.BLL.pdb
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\ACP.BLL.dll.config
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\ACP.BLL.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\ACP.BLL.pdb
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\ACP.DAL.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\AutoMapper.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\Ninject.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\ACP.DAL.pdb
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\ACP.DAL.dll.config
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\AutoMapper.xml
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\Ninject.xml
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\obj\Debug\ACP.BLL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\obj\Debug\ACP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\obj\Debug\ACP.BLL.csproj.CopyComplete
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\obj\Debug\ACP.BLL.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.BLL\obj\Debug\ACP.BLL.pdb

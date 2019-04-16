@@ -11,3 +11,15 @@ C:\Users\Asus\source\repos\AdressComandProject\ACP.DAL\obj\Debug\ACP.DAL.csproj.
 C:\Users\Asus\source\repos\AdressComandProject\ACP.DAL\obj\Debug\ACP.DAL.csproj.CopyComplete
 C:\Users\Asus\source\repos\AdressComandProject\ACP.DAL\obj\Debug\ACP.DAL.dll
 C:\Users\Asus\source\repos\AdressComandProject\ACP.DAL\obj\Debug\ACP.DAL.pdb
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\bin\Debug\ACP.DAL.dll.config
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\bin\Debug\ACP.DAL.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\bin\Debug\ACP.DAL.pdb
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\obj\Debug\ACP.DAL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\obj\Debug\ACP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\obj\Debug\ACP.DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\obj\Debug\ACP.DAL.dll
+C:\Users\Asus\Desktop\Клонь сука заново\MVC5AcademyProject\ACP.DAL\obj\Debug\ACP.DAL.pdb
